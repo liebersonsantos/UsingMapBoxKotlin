@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UsingMapBoxKotlin</string>
+    <string name="MAPBOX_KEY">pk.eyJ1IjoibGllYmVyc29uc2FudG9zIiwiYSI6ImNqbXcwMjcxejBuZTkzcG5vdjR2eWlleWwifQ.ZNaXOX1Nck0gW12RLFa_RA</string>
+    <!--<string name="MAPBOX_KEY">pk.eyJ1IjoibGllYmVyc29uc2FudG9zIiwiYSI6ImNqbXcxZncyaDA5OXQzcHBqdjJyM2tsangifQ.9yWOq7ddHSS21KW89WOXKQ</string>-->
+</resources>
